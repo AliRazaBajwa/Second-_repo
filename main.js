@@ -1,3 +1,3 @@
 var num = 40;
 var truth = "hello ali";
-var neww = "my name is bajwa";
+var neww = "my name is alibajwa";
